@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f551e85d-89ec-4de2-bf58-328e487031cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hahdB19lgRJMAI8DtKSTHZDVlb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Microsoft/WindowsApps" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myPyQtBackend" value="PyQt5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amitt\PycharmProjects\SA1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amitt\PycharmProjects\SA1" />
+      <recent name="C:\Users\amitt\PycharmProjects\SA1\Files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.logo">
+    <configuration name="logo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SA1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/logo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mystery (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SA1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mystery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mystery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SA1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\amitt\PycharmProjects\SA1\mystery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.logo" />
+        <item itemvalue="Python.mystery (1)" />
+        <item itemvalue="Python.mystery" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f551e85d-89ec-4de2-bf58-328e487031cd" name="Default Changelist" comment="" />
+      <created>1600255194077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600255194077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="259" y="420" key="FileChooserDialogImpl" timestamp="1600258181939">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state x="259" y="420" key="FileChooserDialogImpl/0.0.1728.1152@0.0.1728.1152" timestamp="1600258181939" />
+    <state width="836" height="374" key="GridCell.Tab.0.bottom" timestamp="1600439847437">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state width="836" height="374" key="GridCell.Tab.0.bottom/0.0.1728.1152@0.0.1728.1152" timestamp="1600439847437" />
+    <state width="836" height="374" key="GridCell.Tab.0.center" timestamp="1600439847436">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state width="836" height="374" key="GridCell.Tab.0.center/0.0.1728.1152@0.0.1728.1152" timestamp="1600439847436" />
+    <state width="836" height="374" key="GridCell.Tab.0.left" timestamp="1600439847435">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state width="836" height="374" key="GridCell.Tab.0.left/0.0.1728.1152@0.0.1728.1152" timestamp="1600439847435" />
+    <state width="836" height="374" key="GridCell.Tab.0.right" timestamp="1600439847436">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state width="836" height="374" key="GridCell.Tab.0.right/0.0.1728.1152@0.0.1728.1152" timestamp="1600439847436" />
+    <state width="836" height="374" key="GridCell.Tab.1.bottom" timestamp="1600439847439">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state width="836" height="374" key="GridCell.Tab.1.bottom/0.0.1728.1152@0.0.1728.1152" timestamp="1600439847439" />
+    <state width="836" height="374" key="GridCell.Tab.1.center" timestamp="1600439847438">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state width="836" height="374" key="GridCell.Tab.1.center/0.0.1728.1152@0.0.1728.1152" timestamp="1600439847438" />
+    <state width="836" height="374" key="GridCell.Tab.1.left" timestamp="1600439847437">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state width="836" height="374" key="GridCell.Tab.1.left/0.0.1728.1152@0.0.1728.1152" timestamp="1600439847437" />
+    <state width="836" height="374" key="GridCell.Tab.1.right" timestamp="1600439847438">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state width="836" height="374" key="GridCell.Tab.1.right/0.0.1728.1152@0.0.1728.1152" timestamp="1600439847438" />
+    <state x="89" y="170" key="SettingsEditor" timestamp="1600258370646">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state x="89" y="170" key="SettingsEditor/0.0.1728.1152@0.0.1728.1152" timestamp="1600258370646" />
+    <state x="929" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1600523585560">
+      <screen x="0" y="0" width="1728" height="1152" />
+    </state>
+    <state x="929" y="358" key="com.intellij.ide.util.TipDialog/0.0.1728.1152@0.0.1728.1152" timestamp="1600523585560" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+
+START | AT THE MALL, AT SCHOOL, AT THE CLUB | Hey! It's a new day. Would you like to (a) Go to the Mall, (b) go to School, or (c) go to the club
+
+AT THE MALL | MALL STORY, AT THE BANK | Welcome to the Mall. Do you (a) have money, or would you like to (b) go to the Bank?
+
+AT SCHOOL | AT CLASS, AT FOOTBALL | Wow. So many people at School. Look -- Your friends are in the field playing football? You also have a remedial class now. Do you want to (a) go to class or (b) go play football?
+
+AT THE CLUB | PRISON, AT HOME | Wow, so much going on here! Do you a) want a drink, or b) want to leave instead?
+
+AT HOME | SWITCHBOARD, END | At home. Would you like to (a) go somewhere else, or (b) end game?
+
+END | | Bye for now, please come back and play again!
+
+AT FOOTBALL | | Terrible choice. You failed your Math final. Please Go home and sleep. The End.
+
+AT THE BANK | BANK, AT HOME | Would you like a loan to use at the Mall? a) Yes or b) No
+
+BANK | AT THE MALL | Here is your loan! Press (a) to go back to the mall.
+
+MALL STORY | SWITCHBOARD, END | Look -- it's the piano you've always wanted! Let's buy it! Done. Would you like to (a) visit somewhere else or (b) Quit story?
+
+SWITCHBOARD | AT THE MALL, AT SCHOOL, AT THE CLUB, AT HOME, AT THE BANK | Time has gone fast. Time to move on. Would you like to (a) go to the mall, (b) go to school, (c) go to the club, (d) go home, or (e) go to the Bank?
+
+AT CLASS | SWITCHBOARD, END | Excellent choice -- you passed your Math finals! Do you want to a) go somewhere else or b) end story?

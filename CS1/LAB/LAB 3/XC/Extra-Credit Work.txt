@@ -1,0 +1,6 @@
+WORK DONE FOR EXTRA_CREDIT
+------------------------------------------------------
+1. Used a different, colored map
+2. Tried to show more details about current city
+
+Done in visualize_cities_extracredit.py
