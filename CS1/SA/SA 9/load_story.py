@@ -4,7 +4,7 @@
 # Purpose: Parse a story in a provided text file and create a properly formatted graph.
 
 # Imports:
-from vertex import *
+from vertex import Vertex
 
 
 # Function to parse and partition lines in text file

@@ -4,10 +4,11 @@
 # Purpose: Adventure!!
 
 # Imports
-from load_story import *
+from load_story import load_story
 
 # Defining important variables:
-filename = "story.txt"  # To change source file of story, just change this variable name.
+filename = "latest_story.txt"  
+# To change source file of story, just change this variable name.
 
 
 # Function to start gameplay:
