@@ -43,7 +43,7 @@ def search():
     global path_used, start_vertex, goal_vertex, vertex_dict
 
     # Resetting the backpointers for all the vertices in vertex_dict
-    for key, vertex in vertex_dict.items():
+    for vertex in vertex_dict.values():
         vertex.backpointer = None
 
     # Find shortest path by calling bfs on the start vertex and goal vertex

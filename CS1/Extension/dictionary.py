@@ -6,5 +6,6 @@ def phi(x, n):
         print(x)
     return x
 
+
 x, n = map(float, input().split())
 print(phi(x, n))

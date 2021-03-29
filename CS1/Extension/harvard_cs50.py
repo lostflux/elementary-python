@@ -120,7 +120,7 @@ def unload():
 
 
 print("{'x', 'int', '1', 'return', 'i', 'def', 'split', 'map', 'phi', 'in', 'for', 'print', 'input', 'float,', 'n', 'range', 'x,'}")
-print(load("dictionary.txt"))
+print(load("dictionary.py"))
 # print(check("def"))
 print(size(words=words, n=5))
 

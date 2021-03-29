@@ -5,7 +5,7 @@
 
 
 # Imports:
-from cs1lib import *
+from CS1.cs1lib import *
 
 # Defining constant to hold window title
 TITLE = "String Art"

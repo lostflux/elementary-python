@@ -17,7 +17,7 @@ def last_in_link(ghead):
 
 # Driver code
 list_of_values = []
-for i in input("Enter number separated by commas: ").split():
+for i in input("Enter numbers separated by spaces: ").split():
     try:
         list_of_values.append(int(i))
     except:

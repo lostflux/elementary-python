@@ -8,7 +8,7 @@ from collections import deque
 
 
 # Function to perform breadth-first search:
-def bfs(start_vertex, goal_vertex, path = None, path_length=0):
+def bfs(start_vertex, goal_vertex, path=None, path_length=0):
     if path is None:
         path = deque()
     path_length += 1

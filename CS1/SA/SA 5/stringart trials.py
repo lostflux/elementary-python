@@ -6,7 +6,7 @@
 # Imports:
 import random
 
-from cs1lib import *
+from CS1.cs1lib import *
 import time
 
 
